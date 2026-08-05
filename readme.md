@@ -16,3 +16,23 @@ This project demonstrates the complete analytics workflow:
 - HR KPI Tracking
 - Interactive Dashboards
 - Business Insights
+
+---
+
+# 📅 Project Progress
+
+| Day | Phase | Status |
+|------|-------|--------|
+| Day 1 | Project Setup & Data Understanding | ✅ Completed |
+| Day 2 | Data Cleaning & Feature Engineering | ✅ Completed |
+| Day 3 | Exploratory Data Analysis (EDA) | ✅ Completed |
+| Day 4 | Business-Oriented Business Analysis | ✅ Completed |
+| Day 5 | SQLite Database Setup | ✅ Completed |
+| Day 6 | SQL Business Analysis & Advanced SQL Queries | ✅ Completed |
+| Day 7 | Power BI Data Modeling | ⏳ Upcoming |
+| Day 8 | Executive Dashboard | ⏳ Upcoming |
+| Day 9 | Interactive Dashboard & DAX | ⏳ Upcoming |
+| Day 10 | Dashboard Polish & Documentation | ⏳ Upcoming |
+
+---
+
